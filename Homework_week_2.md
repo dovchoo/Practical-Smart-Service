@@ -1,4 +1,4 @@
-## Federated Learning
+## Federated Learning with Flower
 
 ### 1. fedavg_mnist.py
 <img width="1440" alt="Screen Shot 2023-03-24 at 00 00 32" src="https://user-images.githubusercontent.com/85398419/227248546-2c71af09-28b5-426d-83e3-89b95a9840d7.png">
