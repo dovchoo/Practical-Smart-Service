@@ -1,3 +1,2 @@
 # Practical-Smart-Service
 스마트서비스응용
-[석회화 판단 딥러닝을 위한 이미지 처리 알고리즘 기반의 전처리 방법.pdf](https://github.com/dovchoo/Practical-Smart-Service/files/11397979/default.pdf)
